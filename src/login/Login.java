@@ -34,7 +34,6 @@ public class Login extends JFrame implements ActionListener {
     private JLabel jicon, iUser,iPass, jFondo, icon;
     private JTextField jUser, jpass;
     Font fuente = new Font("Times new roman", Font.BOLD, 15);
-    Font fontbtn = new Font("Times New Roman", 1, 20);
 
     public Login() {
         
